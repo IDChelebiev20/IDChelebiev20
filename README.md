@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm an Ivan Chelebiev</h1>
+<h1 align="center">Hi 👋, I'm Ivan Chelebiev</h1>
 <h3 align="center">Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idchelebiev20&label=Profile%20views&color=0e75b6&style=flat" alt="idchelebiev20" /> </p>
